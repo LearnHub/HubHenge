@@ -2,6 +2,8 @@
 
 This is a Blender project for use with Mozilla Hubs. It demonstrates lightmaps and HDR environment maps with the goal of "looking good" in both lit and unlit quality modes. It aspires to represent "best practice" and function as a reference project.
 
+![HubHenge Night Screenshot](screenshot.jpeg "HubHenge Night")
+
 Note: the project will not export from Blender correctly without the [hdr-lightmaps](https://github.com/MozillaReality/hubs-blender-exporter/pull/35) and [shadow component](https://github.com/MozillaReality/hubs-blender-exporter/pull/39) changes.
 
 ## Models
